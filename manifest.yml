@@ -1,0 +1,6 @@
+---
+applications:
+- name: api4swagger
+  buildpack: sdk-for-nodejs
+  memory: 256M
+  random-route: true
